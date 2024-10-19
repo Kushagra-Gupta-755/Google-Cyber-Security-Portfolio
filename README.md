@@ -24,7 +24,6 @@ This repository contains my cybersecurity projects and hands-on labs as part of 
 - **Incident Response**: Detecting and responding to security incidents efficiently.
 
 ## Connect  
-Feel free to connect with me on:
 
 LinkedIn : https://www.linkedin.com/in/kushagra-gupta-a1b6b4291/
 
