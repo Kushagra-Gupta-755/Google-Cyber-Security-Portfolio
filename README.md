@@ -2,7 +2,7 @@
 
 This repository contains my cybersecurity projects and hands-on labs as part of the <a href='https://www.coursera.org/google-certificates/cybersecurity-certificate'>Google Cybersecurity Professional Certificate
  
- on Coursera. Through this program, I developed skills and gained knowledge in areas like risk management, network security, Linux, SQL, Python automation, and incident response.
+ Through this program, I developed skills and gained knowledge in areas like risk management, network security, Linux, SQL, Python automation, and incident response.
 
 ## Courses Overview
 
