@@ -30,6 +30,3 @@ LinkedIn : https://www.linkedin.com/in/kushagra-gupta-a1b6b4291/
 
 Coursera : https://www.coursera.org/account-profile
 
-
-
-![image](https://github.com/user-attachments/assets/aa1c7d07-2151-489f-a791-4092379a0ef4)
