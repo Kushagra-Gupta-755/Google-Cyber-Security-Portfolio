@@ -25,8 +25,7 @@ This repository contains my cybersecurity projects and hands-on labs as part of 
 
 ## Connect  
 
-LinkedIn : https://www.linkedin.com/in/kushagra-gupta-a1b6b4291/
+[LinkedIn](https://www.linkedin.com/posts/kushagra-gupta-a1b6b4291_cybersecurity-googlecertificate-coursera-activity-7254918271789879297-jjaM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbCs7cBi-7IAxysRr4H-VwsHwknspiZI5c)
 
-
-Coursera : https://www.coursera.org/account-profile
+[Coursera](https://www.coursera.org/account-profile)
 
